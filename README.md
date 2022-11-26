@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patelvaibhav21
 - 👀 I’m interested in ... Web Technology
-- 🌱 I’m currently learning ...HTML,Css,Javascript,NodeJs
+- 🌱 I’m currently learning ...Python ,HTML,Css,Javascript,Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...patelvaibhavm123@gmail.com is my mail Id. You can contact me
 
