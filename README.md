@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Vaibhav Patel (@patelvaibhav21)
 
 Welcome to my GitHub profile — a space where I explore, learn, and contribute to the world of web development!
-
 ---
 ## 💡 About Me
 - 🌐 Passionate about building modern, scalable web applications.
@@ -13,7 +12,6 @@ Welcome to my GitHub profile — a space where I explore, learn, and contribute 
   - 🗄️ Databases: SQL, MongoDB, Redis
   - 🔁 Messaging & Caching: RabbitMQ, Redis
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
