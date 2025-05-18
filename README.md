@@ -42,11 +42,10 @@ I’m looking to collaborate on:
 - 🛠️ Microservices and scalable backend architectures
 
 Have a project or idea? Let’s build something awesome together!
----
+
 # 📫 How to Reach Me
 📧 Email: patelvaibhavm123@gmail.com  
 💬 Open to remote opportunities, project collaboration, and community contributions!
----
 
 “Code is like humor. When you have to explain it, it’s bad.” - Cory House
 Thanks for stopping by! 😊
