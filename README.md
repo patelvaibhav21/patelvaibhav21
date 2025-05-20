@@ -3,7 +3,7 @@
 Welcome to my GitHub profile — a space where I explore, learn, and contribute to the world of development!
 ---
 ## 💡 About Me
-- 🌐 Passionate about building modern, scalable web applications.
+- 🌐 Passionate about building modern, scalable applications.
 - 🧠 Constantly learning and experimenting with new tools and frameworks.
 - 🌱 Currently learning and working with:
   - 🐍 Python
